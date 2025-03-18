@@ -1,4 +1,4 @@
-Certainly! Below is a detailed breakdown of the project to upgrade your power tool products with IoT capabilities:
+Below is a detailed breakdown of the project to upgrade your power tool products with IoT capabilities:
 
 ---
 
