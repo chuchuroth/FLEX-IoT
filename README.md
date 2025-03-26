@@ -1,4 +1,4 @@
-to upgrade power tool products with IoT capabilities:
+_For commercial confidentiality reasons, this repo has been migrated to a private repo._
 
 ---
 
